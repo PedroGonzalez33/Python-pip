@@ -13,7 +13,7 @@ def get_list():
 
 @app.get('/contact')
 def get_list():
-    return {'name':'peter33'}
+    return {'name':'peter33 :)'}
     
 def run():
     store.get_product
